@@ -3,7 +3,7 @@ from telebot import types
 
 # Токен та твій Telegram ID
 TOKEN = '7462016871:AAEE67D7obQEiogoFoUXMlOtXK6jVjmzb0U'
-ADMIN_ID = 582421023  # твій ID
+ADMIN_ID = 345118990  # твій ID
 
 bot = telebot.TeleBot(TOKEN)
 user_data = {}
